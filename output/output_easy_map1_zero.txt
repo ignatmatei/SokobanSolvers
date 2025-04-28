@@ -1,0 +1,5 @@
+Algorithm: LRTA*
+Map: easy_map1.yaml
+Heuristic: zero
+Solution found in 1048 steps.
+Time taken: 0.084 seconds.

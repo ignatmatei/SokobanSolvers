@@ -1,0 +1,5 @@
+Algorithm: LRTA*
+Map: hard_map1.yaml
+Heuristic: boxes_out_of_place
+Solution found in 803 steps.
+Time taken: 0.081 seconds.

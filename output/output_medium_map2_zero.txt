@@ -1,0 +1,6 @@
+Algorithm: LRTA*
+Map: medium_map2.yaml
+Heuristic: zero
+No solution found within step limit.
+Steps taken: 20001
+Time taken: 2.633 seconds.

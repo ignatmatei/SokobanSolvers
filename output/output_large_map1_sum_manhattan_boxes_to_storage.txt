@@ -1,0 +1,5 @@
+Algorithm: LRTA*
+Map: large_map1.yaml
+Heuristic: sum_manhattan_boxes_to_storage
+Solution found in 5913 steps.
+Time taken: 0.537 seconds.

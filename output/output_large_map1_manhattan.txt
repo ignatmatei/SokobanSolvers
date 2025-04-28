@@ -1,0 +1,5 @@
+Algorithm: LRTA*
+Map: large_map1.yaml
+Heuristic: manhattan
+Solution found in 5913 steps.
+Time taken: 0.505 seconds.

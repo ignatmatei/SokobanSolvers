@@ -1,0 +1,5 @@
+Algorithm: LRTA*
+Map: medium_map1.yaml
+Heuristic: boxes_out_of_place
+Solution found in 2359 steps.
+Time taken: 0.361 seconds.

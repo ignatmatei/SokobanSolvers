@@ -1,0 +1,6 @@
+Algorithm: LRTA*
+Map: super_hard_map1.yaml
+Heuristic: zero
+No solution found within step limit.
+Steps taken: 20001
+Time taken: 1.859 seconds.
